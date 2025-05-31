@@ -43,14 +43,6 @@ These chapters will cover:
 - **Use the optional readings** to reinforce your understanding:
   - Preskill if you're physics-oriented,
   - Berkeley notes if you're CS/math-oriented,
-  - Quantum Country if you want interactive conceptual reinforcement.
-
----
-
-## 💬 Questions?
-
-Consider joining a quantum computing forum or study group. Discussing concepts out loud and solving problems together can be a huge boost!
-
 ---
 
 Happy learning! 🧩⚛️

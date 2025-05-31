@@ -44,7 +44,9 @@ Your theoretical backbone for this week comes from the following sections:
 
 ## 🧪 Practical Component – Qiskit Course
 
-### 🎓 [Fundamentals of Quantum Algorithms (Qiskit Course)](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms)
+### 🎓 [Fundamentals of Quantum Algorithms (Qiskit Course)]
+
+[Start Course →](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms)
 
 This hands-on course by IBM covers:
 - Implementing **Deutsch-Jozsa**, **Bernstein-Vazirani**

@@ -20,19 +20,22 @@ This week, you'll study three of the most iconic quantum algorithms: **Deutsch-J
 Your theoretical backbone for this week comes from the following sections:
 
 ### 📖 Chapter 1 – *Introduction*
-- **Section 1.4**:  
+- **Section 1.4**:
+  
   👉 Introduction to the **Deutsch-Jozsa algorithm**  
   Learn how quantum parallelism solves specific problems in a single evaluation.
 
 ---
 
 ### 📖 Chapter 5 – *Quantum Algorithms*
+
 - **Sections 5.1, 5.2, 5.3** (You may skip the performance analysis subsections)  
   👉 Focus on **Shor’s algorithm** and the underlying **Quantum Fourier Transform (QFT)**  
 ---
 
 ### 📖 Chapter 6 – *Grover’s Algorithm*
-- **Section 6.1**:  
+- **Section 6.1**:
+  
   👉 Learn the mechanism behind **Grover’s quadratic speedup** for unstructured search  
   Visualize amplitude amplification and how it reshapes probability distributions
 
@@ -58,8 +61,6 @@ This hands-on course by IBM covers:
 - [ ] Read **Sections 5.1–5.3** (Shor’s Algorithm & QFT), skipping performance analysis
 - [ ] Read **Section 6.1** (Grover’s Algorithm)
 - [ ] Complete the **Qiskit course on Quantum Algorithms**
-- [ ] Implement at least one algorithm (e.g., Grover or Deutsch-Jozsa) using Qiskit
-
 ---
 
 ## 💬 Need Help?
@@ -67,7 +68,5 @@ This hands-on course by IBM covers:
 Reach out for guidance via:
 - [Qiskit Documentation](https://qiskit.org/documentation/)
 - [Qiskit YouTube Channel](https://www.youtube.com/@qiskit)
-- Class discussion forums or peer groups
-
 ---
 

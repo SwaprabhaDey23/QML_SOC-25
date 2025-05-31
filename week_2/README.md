@@ -71,5 +71,3 @@ This short but essential course covers:
 ---
 
 
-Let’s code the future, one qubit at a time ⚛️💻
-

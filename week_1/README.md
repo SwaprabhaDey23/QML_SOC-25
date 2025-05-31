@@ -11,7 +11,8 @@ You should aim to **complete Chapter 1 and Chapter 2** of:
 **Michael A. Nielsen and Isaac L. Chuang**
 
 [*Quantum Computation and Quantum Information* (2000)](https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
-📖 Commonly referred to as "Mike and Ike", this is the definitive textbook in the field.
+
+📖 Commonly referred to as "Neilson and Chuang", this is the definitive textbook in the field.
 
 These chapters will cover:
 

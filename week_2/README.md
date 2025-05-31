@@ -1,17 +1,30 @@
 # 🧪 Week 2: Getting Started with Qiskit
 
 Welcome to Week 2 of your quantum computing journey! 🚀  
-Now that you've built a foundational understanding of quantum computation, it's time to get your hands dirty — and start writing **real quantum programs** using **Qiskit**, IBM’s open-source quantum software framework.
+This week marks your transition from learning the **theory** of quantum computing to actually **programming quantum circuits** using **Qiskit**, IBM’s open-source quantum software platform.
+
+---
+## 🎯 This Week’s Goals
+
+> ✅ **Install Qiskit and run your first quantum programs**  
+> ✅ **Learn how quantum circuits are constructed and simulated**  
+> ✅ **Bridge theory and practice by studying quantum circuits in Nielsen & Chuang**
+
+---
+### 📖 Nielsen & Chuang — Chapter 4 (Sections 4.1 to 4.4)
+
+To understand what you're programming, you need to know how quantum circuits work under the hood.  
+**Read Sections 4.1 to 4.4**, which cover:
+- The quantum circuit model
+- Single- and two-qubit gates
+- Circuit diagrams
+- Universality and basic decomposition
+
+This reading will help you understand what Qiskit is actually doing when you define a circuit in code.
 
 ---
 
-## 🎯 This Week’s Goal
-
-> 👉 **Install Qiskit, explore its documentation, and complete the online course: _Basics of Quantum Information_**
-
----
-
-## 🔗 Helpful Links
+## 🔗 Qiskit Resources
 
 ### 📦 Official Qiskit Website  
 🔗 [https://www.ibm.com/quantum/qiskit](https://www.ibm.com/quantum/qiskit)  

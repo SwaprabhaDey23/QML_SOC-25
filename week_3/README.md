@@ -29,7 +29,8 @@ Your theoretical backbone for this week comes from the following sections:
 
 ### 📖 Chapter 5 – *Quantum Algorithms*
 
-- **Sections 5.1, 5.2, 5.3** (You may skip the performance analysis subsections)  
+- **Sections 5.1, 5.2, 5.3** (You may skip the performance analysis subsections)
+   
   👉 Focus on **Shor’s algorithm** and the underlying **Quantum Fourier Transform (QFT)**  
 ---
 

@@ -26,7 +26,7 @@ These chapters will cover:
 ## 📚 **Optional Reading Materials (Highly Recommended for Deeper Understanding)**
 
 1. ### 🧠 John Preskill’s Introductory Notes  
-   [📄 Chapter 1 – Introduction to Quantum Computation](http://theory.caltech.edu/~preskill/ph229/)  
+   [📄 Chapter 1 – Introduction to Quantum Computation](https://www.preskill.caltech.edu/ph229/)  
    From his legendary Caltech course (Ph229), Preskill provides a concise yet intuitive introduction with a physicist’s perspective.
 
 2. ### 🌐 Interactive Essay by Nielsen & Matuschak  

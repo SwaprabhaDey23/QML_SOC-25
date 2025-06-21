@@ -49,6 +49,17 @@ This can give you:
 
 ---
 
+## 📘 Problem Background: Minimum Vertex Cover
+
+The **Minimum Vertex Cover** is a classic NP-hard graph optimization problem. It asks:
+
+> What is the smallest set of vertices such that every edge in the graph is incident to at least one selected vertex?
+
+🔗 [Learn more → Wikipedia: Vertex Cover](https://en.wikipedia.org/wiki/Vertex_cover)
+
+You’ll encode this problem into a cost Hamiltonian and apply **QAOA** to approximate the optimal solution.
+
+
 ## 💻 Project Task
 
 ### ✨ **Implement QAOA for the Minimum Vertex Cover problem**

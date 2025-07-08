@@ -6,9 +6,13 @@ This week is about taking the leap from learner to explorer. You’ll pick a **r
 
 ## 🎯 Your Task
 
- 🔍 **Find a recent research paper that interests you** — ideally related to quantum algorithms, optimization, or simulation. 
-💻 **Implement the method or algorithm described**, even if only for a small-scale example.  
- 🧠 **Understand the problem being solved**, the quantum algorithm used, and how it's executed.
+Find a **recent research paper** that interests you — ideally related to quantum algorithms, optimization, or simulation. Try to **implement the algorithm or method described**, even if it's a simplified version on a small problem instance.
+
+The focus is on:
+- Understanding the problem being solved
+- Reproducing the quantum algorithm or core circuit
+- Running small-scale tests (3–5 qubits is fine)
+- Documenting your implementation and insights
 
 ---
 

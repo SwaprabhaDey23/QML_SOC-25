@@ -12,17 +12,17 @@ This week is about taking the leap from learner to explorer. You’ll pick a **r
 
 ---
 
-## ❓ Can’t Decide on a Paper?
+## A few suggested paper which you can try
 
 If you're unsure what to pick, you can **start by trying one of the following**:
 
-1. **[QAOA for the Sherrington-Kirkpatrick Model (Phys. Rev. B)]**  
+1. **[Quantum Convolutional Neural Network in ANNNI model (Phys. Rev. B)]**  
    🔗 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L081105
 
-2. **[Noisy QAOA for Max-Cut]**  
+2. **[Learning quantum dynamics incoherently]**  
    🔗 https://arxiv.org/abs/2303.12834
 
-3. **[Generalized Variational Algorithms Beyond QAOA]**  
+3. **[Generative quantum eigensolver]**  
    🔗 https://arxiv.org/abs/2401.09253
 
 You can also adapt ideas from these papers to smaller examples if full reproduction is too complex.
